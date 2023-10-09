@@ -1,0 +1,11 @@
+body {
+    background-color: #CCCCCC;
+}
+
+p {
+    text-align: center;
+}
+
+em p {
+color: rgb(21, 241, 241);
+}
