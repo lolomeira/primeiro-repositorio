@@ -10,5 +10,6 @@ p {
     text-align: center;
 }
 
-em p {
+em strong {
 color: rgb(21, 241, 241); 
+}
